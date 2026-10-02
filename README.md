@@ -6,6 +6,7 @@
 - Também pretendo aprender bibliotecas gráficas como SDL.
 - Escolhi a linguagem por ser extremamente boa para aprender a lógica de programação num geral, facilitando o aprendizado em outras linguagens.
 - Acabei amando e achei extremamente divertido a sintaxe
-\n![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 
 
