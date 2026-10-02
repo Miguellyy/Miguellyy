@@ -13,5 +13,5 @@
 
 ![C](https://img.shields.io/badge/Python-00599C?logo=python&logoColor=white&style=for-the-badge)
 
-# 🐍 Atividade em Python!!!!
+# 🐍 Atividades em Python!!!!
 - https://github.com/Miguellyy/Miguellyy/tree/d3af2f5c0d659002557feef94a610647188e20a8/MinhasAtividades
