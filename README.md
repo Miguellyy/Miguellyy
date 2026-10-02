@@ -1,4 +1,4 @@
 ## Oi, sou o Miguel
 - Curso informática na ETEC!
 ## Tecnologias que estudo
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
